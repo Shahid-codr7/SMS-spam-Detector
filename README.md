@@ -8,9 +8,7 @@ This repository hosts an SMS Spam Detector application that leverages **machine 
 - **Natural Language Processing (NLP)**: Utilizes NLP techniques for preprocessing and feature extraction from text data.
 - **High Accuracy**: Achieves more than 95% accuracy on the test dataset.
 - **Extensive Dataset**: Trained on a dataset of over 5,000 SMS messages, ensuring robustness and reliability.
-- **Web Deployment**: The application is deployed for live testing and can be accessed [Here is the updated description for your `README.md` file, incorporating the deployment link:
-
----
+- **Web Deployment**: The application is deployed for live testing and can be accessed [here](https://huggingface.co/spaces/Shahid-codr7/SMS-spam-detector)
 
 # SMS Spam Detector
 

@@ -1,0 +1,29 @@
+# Core data processing libraries
+pandas>=1.0.0
+numpy>=1.18.0
+
+# Machine learning libraries
+scikit-learn>=0.24.0
+xgboost>=1.3.0
+
+# Natural Language Processing
+nltk>=3.5
+# Note: You'll need to download NLTK data using:
+# nltk.download('punkt')
+# nltk.download('stopwords')
+
+# Visualization (may not be needed on server, but included for completeness)
+matplotlib>=3.3.0
+seaborn>=0.11.0
+wordcloud>=1.8.0
+
+# Web application
+streamlit>=1.0.0
+
+# Serialization
+pickle-mixin>=1.0.2
+
+# Additional dependencies that might be required
+python-dateutil>=2.8.1
+pytz>=2020.1
+joblib>=1.0.0

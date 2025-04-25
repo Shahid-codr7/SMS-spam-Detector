@@ -30,7 +30,7 @@ This repository hosts an SMS Spam Detector application that leverages **machine 
    - Hyperparameter tuning is performed to optimize the chosen model.
 
 5. **Evaluation**:
-   - The model is evaluated on a test set using metrics like accuracy, precision, recall, and F1-score.
+   - The model is evaluated on a test set using metrics like accuracy & precision.
    - A confusion matrix is created to visualize the performance.
 
 6. **Deployment**:

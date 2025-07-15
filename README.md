@@ -14,6 +14,7 @@ This repository hosts an SMS Spam Detector application that leverages **machine 
 
 1. **Dataset Preparation**:
    - The dataset consists of labeled SMS messages (spam or legitimate).
+   - URL: https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
    - The data is split into training and testing sets to evaluate model performance.
 
 2. **Text Preprocessing**:
